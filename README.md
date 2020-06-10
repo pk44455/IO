@@ -12,5 +12,6 @@ Java: Należy pobrać oraz zaimplementować JDBC connector, tak jak w filmiku: h
 MATLAB: Należy pobrać oraz zaimplementować ODBC connector, tak jak w filmiku: https://www.youtube.com/watch?v=XIgZlCdb-PA
 
 Opis programu:
+
 Z programu należy korzystać wyłącznie poprzez GUI w programie MATLAB. Pozwala ono na śledzenie danych pobieranych od pracowników, przełączanie się pomiędzy pracownikami, a jeśli średnia z ostatnich 10 pomiarów przekracza normę, zostanie wyświetlony komunikat o zagrożeniu pracownika, a także opcje: przejścia do tego pracownika, zignorowania wiadomości oraz rozpoczęcia ewakuacji (przycisk dodany tylko w celach wizualnych - nic nie robi)
 
